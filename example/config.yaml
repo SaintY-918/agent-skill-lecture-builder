@@ -1,0 +1,19 @@
+page:
+  title: "Agent Skill 講義產生器"
+  badge: "Vibe Coding 實戰"
+  hero_title: "從免洗餐具到長期工具：<br>打造你的 Agent Skill 講義產生器"
+  subtitle: "用模板思維解決 Vibe Coding 的細節失控痛點"
+
+quotes:
+  opening:
+    text: "AI 時代下，Vibe Coding 的價值不在於生成速度 ──<br>而在於你能不能把成果從「免洗餐具」變成「長期工具」"
+  closing:
+    text: >
+      當我們開始思考專案架構的時候，Vibe Coding 的成果才會慢慢脫離 Demo，進入長期可用的狀態。<br><br>
+      希望這次的分享，能讓你有能力慢慢把工具設計成更符合自己需求的樣子。
+
+seo:
+  title: "從免洗餐具到長期工具：打造你的 Agent Skill 講義產生器"
+  description: "這份講義將帶你透過實戰，把 AI 隨機的輸出變成可用 Markdown 維護的模板，並封裝成 Agent Skill 建立完整工作流。"
+  image: "https://SaintY-918.github.io/agent-skill-lecture-builder/example/assets/og-image.jpg"
+  url: "https://SaintY-918.github.io/agent-skill-lecture-builder/example/"

@@ -1,0 +1,20 @@
+page:
+  title: "生成式 AI 資訊安全"
+  badge: "資安實務 · AI 威脅防禦 · 企業必備"
+  hero_title: "生成式 AI 資訊安全<br>從攻擊手法到防禦實戰"
+  subtitle: "透過真實案例解析 Prompt Injection、資料洩漏、模型越獄等核心威脅，帶你建立完整的 AI 資安防線，讓 AI 成為生產力而非風險來源。"
+
+seo:
+  title: "生成式 AI 資訊安全｜從攻擊手法到防禦實戰"
+  description: "深入剖析生成式 AI 的六大安全威脅，結合真實攻擊案例與企業防禦策略，適合開發者、資安工程師與企業主管。"
+  image: "https://sainty-918.github.io/agent-skill-lecture-builder/generative-ai-security/assets/og-image.jpg"
+  url: "https://sainty-918.github.io/agent-skill-lecture-builder/generative-ai-security/"
+
+quotes:
+  opening:
+    text: "AI 本身不是弱點，<br>不懂 AI 安全的人才是弱點。"
+  closing:
+    text: >
+      防守者必須每次都對，<br>
+      攻擊者只需要成功一次。<br><br>
+      了解 AI 的攻擊面，才能真正保護你的系統與使用者。
